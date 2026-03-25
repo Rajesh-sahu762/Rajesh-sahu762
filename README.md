@@ -1,9 +1,9 @@
 # 💫 About Me:
- I’m currently working at an IT Company
-🌱 I’m currently learning React.js, Node.js & ASP.NET (C#)
-👯 I’m looking to collaborate on Web Development Projects
-🤝 I’m looking for help with Advanced Backend & APIs
-💬 Ask me about React, GitHub, Basic Projects & Web Design
+ I’m currently working at an IT Company <br>
+🌱 I’m currently learning React.js, Node.js & ASP.NET (C#) <br>
+👯 I’m looking to collaborate on Web Development Projects <br>
+🤝 I’m looking for help with Advanced Backend & APIs <br>
+💬 Ask me about React, GitHub, Basic Projects & Web Design <br>
 ⚡ Fun fact: I love coding + stock market analysis
 
 ## 🌐 Socials:
