@@ -1,16 +1,39 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on
+Building a full-stack EBike Duniya Website using ASP.NET Web Forms, C#, SQL Server and modern UI
 
-<!--
-**Rajesh-sahu762/Rajesh-sahu762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on
+Web development projects, especially ASP.NET, Frontend UI/UX, MERN and Startup-based ideas
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with
+Scaling web applications, performance optimization, and advanced backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning
+Advanced JavaScript, MERN, System Design, and improving backend skills in ASP.NET & SQL Server
+
+💬 Ask me about
+ASP.NET Web Forms, MERN, SQL Server, Frontend Design, Food Ordering Systems, and Web Development
+
+⚡ Fun fact
+I’m building real-world projects while running a business and hitting the gym 6 days a week 💪
+
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+JavaScript JavaScript C# CSS3 Cloudflare .Net MongoDB Express.js jQuery JWT Nodemon React Native React Router TailwindCSS Three js Vite MySQL Dribbble
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
