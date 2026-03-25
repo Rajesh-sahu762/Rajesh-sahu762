@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building a full-stack EBike Duniya Website using ASP.NET Web Forms, C#, SQL Server and modern UI <br><br>👯 I’m looking to collaborate on  <br>Web development projects, especially ASP.NET, Frontend UI/UX, MERN and Startup-based ideas<br><br>🤝 I’m looking for help with  <br>Scaling web applications, performance optimization, and advanced backend architecture<br><br>🌱 I’m currently learning  <br>Advanced JavaScript, MERN, System Design, and improving backend skills in ASP.NET & SQL Server<br><br>💬 Ask me about  <br>ASP.NET Web Forms, MERN, SQL Server, Frontend Design, Food Ordering Systems, and Web Development<br><br>⚡ Fun fact  <br>I’m building real-world projects while running a business and hitting the gym 6 days a week 💪
-
+ I’m currently working at an IT Company
+🌱 I’m currently learning React.js, Node.js & ASP.NET (C#)
+👯 I’m looking to collaborate on Web Development Projects
+🤝 I’m looking for help with Advanced Backend & APIs
+💬 Ask me about React, GitHub, Basic Projects & Web Design
+⚡ Fun fact: I love coding + stock market analysis
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_sahu_762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-sahu-77965a228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshsahu3406@gmail.com) 
