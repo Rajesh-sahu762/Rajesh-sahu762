@@ -1,5 +1,6 @@
-# 💫 About Me:
 <h3 align="center">Full Stack Developer | MERN + .NET | Building Scalable Web Applications 🚀</h3>
+
+# 💫 About Me:
 
 🔭 I’m currently working on  <br>Building and improving real-world full stack web applications using MERN, ASP.NET, C#, and SQL Server, with a focus on scalable architecture and clean UI/UX.<br><br>👯 I’m looking to collaborate on  <br>Web development projects, especially full stack applications, startup ideas, and system-based platforms that solve real-world problems.<br><br>🤝 I’m looking for help with  <br>Advanced backend architecture, performance optimization, and system design to build high-quality scalable applications.<br><br>🌱 I’m currently learning  <br>Advanced JavaScript, system design concepts, DevOps and improving backend efficiency in MERN.<br><br>💬 Ask me about  <br>MERN, ASP.NET Web Forms, C#, SQL Server, frontend development, and building complete web applications from scratch.<br><br>⚡ Fun fact  <br>I’m an ex-intern with hands-on industry experience, actively building multiple real-world projects, managing a business, and maintaining a disciplined fitness routine 💪
 
