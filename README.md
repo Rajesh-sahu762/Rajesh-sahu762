@@ -1,8 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=header"/>
-
-
 <h1 align="center">Hi 👋, I'm Rajesh Sahu</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%2B+.NET+Developer;Building+Real-World+Projects;Gen+AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
 </p>
@@ -76,12 +73,20 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajesh-sahu762&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Rajesh-sahu762&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📈 Contribution Graph
+
+[![Rajesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajesh-sahu762&theme=react-dark)](https://github.com/Rajesh-sahu762)
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rajesh-sahu762/Rajesh-sahu762/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Rajesh-sahu762/Rajesh-sahu762/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=footer"/>
 
