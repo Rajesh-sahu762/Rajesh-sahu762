@@ -1,5 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=header"/>
 
-<h3 align="center">Hi I'm Rajesh Sahu 👋</h3>
+
+<h1 align="center">Hi 👋, I'm Rajesh Sahu</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%2B+.NET+Developer;Building+Real-World+Projects;Gen+AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
+</p>
 
 
 <h3 align="center">Full Stack Developer | MERN + .NET | Building Scalable Web Applications 🚀</h3>
@@ -69,6 +75,15 @@
 ![](https://streak-stats.demolab.com/?user=Rajesh-sahu762&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajesh-sahu762&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rajesh-sahu762/Rajesh-sahu762/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=footer"/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
