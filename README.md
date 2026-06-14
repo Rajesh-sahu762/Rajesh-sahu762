@@ -1,94 +1,144 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=header"/>
-<h1 align="center">Hi 👋, I'm Rajesh Sahu</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%2B+.NET+Developer;Building+Real-World+Projects;Gen+AI+Enthusiast;Always+Learning+New+Technologies+🚀" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajesh%20Sahu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20%2B%20.NET%20%7C%20Gen%20AI%20Enthusiast&descAlignY=54&descSize=16"/>
 
+<div align="center">
 
-<h3 align="center">Full Stack Developer | MERN + .NET | Building Scalable Web Applications 🚀</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF7A00&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;MERN+%2B+ASP.NET+%2B+SQL+Server;Clean+Code+%7C+Clean+UI+%7C+Real+Impact;Gen+AI+Explorer+%F0%9F%A4%96;Always+Shipping%2C+Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-# 💫 About Me:
+<br/>
 
-🔭 I’m currently working on  <br>Building and improving real-world full stack web applications using MERN, ASP.NET, C#, and SQL Server, with a focus on scalable architecture and clean UI/UX.<br><br>👯 I’m looking to collaborate on  <br>Web development projects, especially full stack applications, startup ideas, and system-based platforms that solve real-world problems.<br><br>🤝 I’m looking for help with  <br>Advanced backend architecture, performance optimization, and system design to build high-quality scalable applications.<br><br>🌱 I’m currently learning  <br>Advanced JavaScript, system design concepts, DevOps and improving backend efficiency in MERN.<br><br>💬 Ask me about  <br>MERN, ASP.NET Web Forms, C#, SQL Server, frontend development, and building complete web applications from scratch.<br><br>⚡ Fun fact  <br>I’m an ex-intern with hands-on industry experience, actively building multiple real-world projects, managing a business, and maintaining a disciplined fitness routine 💪
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-sahu762)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajesh_sahu_762)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshsahu3406@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rajesh-sahu762&style=for-the-badge&color=FF7A00&label=PROFILE+VIEWS)](https://github.com/Rajesh-sahu762)
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=Rajesh-sahu762&label=Profile%20views&color=ff7a00&style=flat)
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajesh_sahu_762) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajesh-sahu762) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshsahu3406@gmail.com) 
-
-# 🎯 Current Focus:
-- Building scalable full stack applications  
-- Improving system design skills  
-- Exploring DevOps & deployment strategies  
-
-# 💻 Tech Stack:
-
-### 🧠 Languages:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+</div>
 
 ---
 
-### 🌐 Frontend:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+## ⚡ About Me
+
+```javascript
+const rajesh = {
+  role      : "Full Stack Developer",
+  stack     : ["MERN", "ASP.NET", "C#", "SQL Server"],
+  building  : "Scalable web apps with clean architecture",
+  learning  : ["Advanced JS", "System Design", "DevOps"],
+  hobbies   : ["Coding 💻", "Fitness 💪", "Building Startups 🚀"],
+  motto     : "Ship fast. Learn faster."
+};
+```
+
+> 🔭 Ex-intern with hands-on industry experience — actively shipping real-world projects while managing business ops and staying fit.
 
 ---
 
-### ⚙️ Backend:
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 🧰 Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+</div>
 
 ---
 
-### 🗄️ Database:
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Rajesh-sahu762&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=FF7A00&icon_color=FF7A00"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rajesh-sahu762&layout=compact&theme=tokyonight&hide_border=true&title_color=FF7A00"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rajesh-sahu762&theme=tokyonight&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" />
+</div>
 
 ---
 
-### ☁️ Deployment & Cloud:
+## 🏆 Trophies
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rajesh-sahu762&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 
 ---
-
-### 🛠️ Tools & Others:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rajesh-sahu762&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rajesh-sahu762&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rajesh-sahu762&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Rajesh-sahu762&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Contribution Graph
 
-[![Rajesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajesh-sahu762&theme=react-dark)](https://github.com/Rajesh-sahu762)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajesh-sahu762&theme=tokyo-night&hide_border=true&line=FF7A00&point=FF7A00&area=true" />
+</div>
 
+---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Rajesh-sahu762/Rajesh-sahu762/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff7a00&height=120&section=footer"/>
+---
 
+## 🎯 Current Focus
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td align="center">🏗️</td>
+    <td><b>Building</b> scalable full stack applications</td>
+  </tr>
+  <tr>
+    <td align="center">📐</td>
+    <td><b>Mastering</b> system design & clean architecture</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><b>Exploring</b> Gen AI integrations in web apps</td>
+  </tr>
+  <tr>
+    <td align="center">☁️</td>
+    <td><b>Learning</b> DevOps & deployment strategies</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+*"The best code is the code that ships."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
